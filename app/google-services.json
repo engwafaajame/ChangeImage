@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "457080179125",
+    "firebase_url": "https://myrecyclet.firebaseio.com",
+    "project_id": "myrecyclet",
+    "storage_bucket": "myrecyclet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457080179125:android:80b836d6a8a38f15",
+        "android_client_info": {
+          "package_name": "com.ahamedads.myrecyclerdatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457080179125-6tca7u03idvdt0tf9qql8gee8kvdti2l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ahamedads.myrecyclerdatabase",
+            "certificate_hash": "8f47a0c63b759f09b2dbbb36b5842375529a4e91"
+          }
+        },
+        {
+          "client_id": "457080179125-99ihsgcq2enj9bga15so2udj2anofvda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8yiSymveKWS1ezKjgnjn2aXqYZR2pLVc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457080179125-99ihsgcq2enj9bga15so2udj2anofvda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
